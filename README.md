@@ -64,7 +64,7 @@ Step11: Select existing User or create a new and check the check box Download an
 
 Step1: Login to your wordpress account in wordpress dotcom and go to dashboard home page. 
  
-Step2 : Go to Tools  Import and click
+Step2 : Go to Tools --> Import and click
  
 Step3: Select WordPress option, Drag and drop the WXR file (coolerlsdmfakenews.2023-04-30.xml) and Click on Start Import once provided that option. 
 
