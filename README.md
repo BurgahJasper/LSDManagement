@@ -9,7 +9,8 @@ Deployment Guide:
 -----------------------
 
 Download the installable file ( WordPress eXtended RSS file also call WXR file ) from following location
-[https://github.com/BurgahJasper/LSDManagement/tree/main/installable](https://github.com/BurgahJasper/LSDManagement/blob/main/installable/coolerlsdmfakenews.2023-04-30.xml)
+https://github.com/BurgahJasper/LSDManagement/tree/main/installable
+File name is coolerlsdmfakenews.2023-04-30.xml
 
 You need to have access to WordPress. 
 
