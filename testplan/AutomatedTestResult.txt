@@ -1,0 +1,14 @@
+PASSED: Search title found
+PASSED: Search result title found
+PASSED: Search text found
+PASSED: 10 == searchResultCountInFirstPage
+PASSED:  Trump Tweeted Nine Times To Deleted Russian Twitter Accounts And No One Is Talking About It  Found
+PASSED:  Military Veterans HUMILIATE Trump For Attacking Senator  Found
+PASSED:  Here Is A Comprehensive And Up To Date List Of All The Allies Trump Has Offended  Found
+PASSED:  Home page loaded successfully and CoolerLSDMFakeNews text  Found
+PASSED: Visualizations page loaded and Visualizations title found
+PASSED:  Visualization page Visualization Section is loaded
+--------------------------------Test Summary----------------------------------------
+Total Test cases :  10
+Total Test case PASSED :  10
+Total Test case FAILED :  0
